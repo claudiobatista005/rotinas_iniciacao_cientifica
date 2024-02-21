@@ -9,7 +9,7 @@
 ## 2. Resumo
      No contexto do planeamento dos transportes públicos, ressalta-se a utilidade dos dados provenientes de cartões inteligentes (Smartcard) e de Sistemas de Posicionamento Global (GPS), uma vez que estes se caracterizam por possuírem expressivo agrupamento de informações, denominados “Big Data” (BD-TP).
   
-    Nesse pressuposto, tais bases podem ser utilizadas para potenciais capitações de comportamento de usuários que vão desde possíveis locais de validações e embarque, como também, a partir da circulação nos trechos, ter parâmetros interessantes de eficiência do sistema de transporte público no seu pleno funcionamento.
+         Nesse pressuposto, tais bases podem ser utilizadas para potenciais capitações de comportamento de usuários que vão desde possíveis locais de validações e embarque, como também, a partir da circulação nos trechos, ter parâmetros interessantes de eficiência do sistema de transporte público no seu pleno funcionamento.
     
     Os cartões inteligentes, fornecem dados relacionados ao uso do transporte público por indivíduo, ou seja, cada vez que é utilizado um determinado veiculo dados daquele usuário são armazenados. Esta informação abrange a frequência das viagens, horários de embarque e desembarque e dados sobre transferências entre diferentes modos de transporte. 
   
