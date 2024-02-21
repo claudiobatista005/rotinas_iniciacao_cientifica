@@ -19,6 +19,8 @@
 
     Ainda assim, foi desenvoldo um algoritmo para estimação dos perfis de velocidades veiculares, a partir dos dados de GPS, sendo estes de um trecho em estudo.
 
+    ATUALMENTE:  Utilização de softwares de simulação de trafego para macrossimulações para diciplina de Analise e Alanejanmento de Sistemas de Transportes - APST e proposição para modelagem de um banco de dados do tipo relacional com dados do sistema de trnasporte publico de Fortaleza.
+
 ## 3. Contato
 claudiobatistata1012@alu.ufc.br
 
