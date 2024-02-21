@@ -18,3 +18,6 @@
     Assim, o referido projeto inicialmente foi baseado em conseguir integrar as informações da bilhetagem com as do GPS, já que elas possuem uma relação de dependência mútua, haja vista que os dados da bilhetagem não possuem os locais de validação, enquanto os dados do GPS não apresentam a linha do veiculo naquele ponto, com tal, é possível determinar o local mais provável de validação e prosseguir para futuras análises. 
 
     Ainda assim, foi desenvoldo um algoritmo para estimação dos perfis de velocidades veiculares, a partir dos dados de GPS, sendo estes de um trecho em estudo.
+
+## 3. Contato
+claudiobatistata1012@alu.ufc.br
