@@ -1,3 +1,7 @@
+--  COMANDOS TESTES PARA CRIAÇÃO E GERENCIAMENTO DE BANCO DE DADOS
+-- OBS: MODELAGEM DO BANCO DE DADOS DO TIPO RELACIONAL DO TRANSPORTE PUBLICO AINDA SERÁ FEITA!
+
+
 -- CRIANDO BANCO DE DADOS
 -- Banco com dados do GPS, Dicionario e Bilhetagem
 CREATE DATABASE banco_tp_fortaleza;
@@ -39,7 +43,7 @@ SHOW VARIABLES LIKE "secure_file_priv";
 -- LINES TERMINATED BY '\n'
 -- IGNORE 1 ROWS;
 
--- #### OBS: FOI USADO UM CODIGO EM PYTHON PARA DIVIDIR A INSERÇÃO DAS LINHAS POR LOTES") ####
+-- #### OBS: "FOI USADO UM CODIGO EM PYTHON PARA DIVIDIR A INSERÇÃO DAS LINHAS POR LOTES" ####
 
 
 -- Revertendo para o sql original
@@ -72,8 +76,6 @@ momento char(20));
 -- Visualizando tabela Bilhetagem
 SELECT *
 FROM bilhetagem_2018;
-
-
 
 
 -- TRATAMENTO INICIAL
