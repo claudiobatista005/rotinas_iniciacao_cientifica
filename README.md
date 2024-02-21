@@ -11,7 +11,7 @@
 
      Nesse pressuposto, tais bases podem ser utilizadas para potenciais capitações de comportamento de usuários que vão desde possíveis locais de validações e embarque, como também, a partir da circulação nos trechos, ter parâmetros interessantes de eficiência do sistema de transporte público no seu pleno funcionamento.
     
-    Os cartões inteligentes, fornecem dados relacionados ao uso do transporte público por indivíduo, ou seja, cada vez que é utilizado um determinado veiculo dados daquele usuário são armazenados. Esta informação abrange a frequência das viagens, horários de embarque e desembarque e dados sobre transferências entre diferentes modos de transporte. 
+     Os cartões inteligentes, fornecem dados relacionados ao uso do transporte público por indivíduo, ou seja, cada vez que é utilizado um determinado veiculo dados daquele usuário são armazenados. Esta informação abrange a frequência das viagens, horários de embarque e desembarque e dados sobre transferências entre diferentes modos de transporte. 
 
     Já, os sistemas GPS implementados em veículos de transporte público, como ônibus e trens, possuem um aparelho que rastreia a localização desses veículos em tempo real, tal informação é coletada em um intervalo especifico e armazenada. 
     
