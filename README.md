@@ -26,5 +26,5 @@
 Para entrar em contato ou saber mais sobre o projeto, sinta-se à vontade para enviar um e-mail ou conectar-se via Linkedin:
 
 - **E-mail:** [claudiobatistata1012@alu.ufc.br](claudiobatistata1012@alu.ufc.br)
-- **LinkedIn:** [Antônio Claudio Dutra Batista](linkedin.com/in/antônio-claudio-dutra-batista-11a01224a)
+- **LinkedIn:** [Antônio Claudio Dutra Batista](https://www.linkedin.com/in/ant%C3%B4nio-claudio-dutra-batista-11a01224a/)
 
