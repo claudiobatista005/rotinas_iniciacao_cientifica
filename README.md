@@ -21,7 +21,10 @@
 
     ATUALMENTE:  Utilização de softwares de simulação de trafego para macrossimulação na diciplina de Analise e Alanejanmento de Sistemas de Transportes - APST e proposição para modelagem de um banco de dados do tipo relacional com dados do sistema de trnasporte publico de Fortaleza.
 
-## 3. Contato
-claudiobatistata1012@alu.ufc.br
+## 3. Contatos
 
-(linkedin.com/in/antônio-claudio-dutra-batista-11a01224a) 
+Para entrar em contato ou saber mais sobre o projeto, sinta-se à vontade para enviar um e-mail ou conectar-se via Linkedin:
+
+- **E-mail:** [claudiobatistata1012@alu.ufc.br](claudiobatistata1012@alu.ufc.br)
+- **LinkedIn:** [Antônio Claudio Dutra Batista](linkedin.com/in/antônio-claudio-dutra-batista-11a01224a)
+
