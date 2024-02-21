@@ -1,1 +1,2 @@
-# ROTINAS DESENVOLVIDAS DUURANTES PARTICPAÇÃO EM PROJETO DE INICIAÇÃO CIENTIFÍCA DO GRUPO DE OPERAÇÃO, PLANEJAMENTO E ANALISE DO TRANSPORTE PUBLICO 
+# ROTINAS INICIAÇÃO CIENTIFÍCA
+#### Desenvoldas durante participação do Grupo de Pesquisa em Operação, Planejamento e Avaliação do Transporte Público - OPA-TP
