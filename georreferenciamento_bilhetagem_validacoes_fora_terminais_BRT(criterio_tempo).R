@@ -1,4 +1,4 @@
-" ALGORITMO: Localização base Bilhetagem (fora terminais e BRT)
+" ALGORITMO: Localização base Bilhetagem (fora terminais e possiveis BRT)
 " Autor: Antônio Claudio Dutra Batista
 " Orientador: Francisco Moraes de Oliveira Neto
 " Metodologia: Mesclagem por informações coincidentes e critério de tempo
