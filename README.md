@@ -1,5 +1,6 @@
 <div align="right">
   <img src="https://github.com/claudiobatista005/ROTINAS_INICIACAO_CIENTIFICA/blob/a12f74e66bbd9763416701bb15634036a66122ce/opa.jpg" alt="Descrição da Imagem" width="100" height="100">
+  
   <img src="https://github.com/claudiobatista005/ROTINAS_INICIACAO_CIENTIFICA/blob/a5a0a39420eb646e475e72a2ce7d38857d57d3ec/ufc_det.jpg" alt="Descrição da Imagem" width="100" height="100">
 </div>
 
