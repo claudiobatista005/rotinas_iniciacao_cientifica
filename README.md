@@ -1,4 +1,4 @@
-<div style="margin-left: auto;">
+<div>
     <img src="https://github.com/claudiobatista005/ROTINAS_INICIACAO_CIENTIFICA/blob/a12f74e66bbd9763416701bb15634036a66122ce/opa.jpg" alt="Descrição da Primeira Imagem" width="100" height="100">
     <img src="https://github.com/claudiobatista005/ROTINAS_INICIACAO_CIENTIFICA/blob/69b9fd39a2769200cff85539b9eec62ed2f817cc/ufc_det.jpg" alt="Descrição da Segunda Imagem" width="100" height="100">
 </div>
