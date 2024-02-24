@@ -22,7 +22,7 @@ O projeto visa integrar as informações da bilhetagem com as do GPS, desenvolve
 ## 3. Imagem no Canto Superior Direito
 
 <div style="position: absolute; top: 10px; right: 10px;">
-  <img src="[URL_DA_SUA_IMAGEM](https://github.com/claudiobatista005/ROTINAS_INICIACAO_CIENTIFICA/blob/a12f74e66bbd9763416701bb15634036a66122ce/opa.jpg)" alt="Descrição da Imagem" width="100" height="100">
+  <img src="https://github.com/claudiobatista005/ROTINAS_INICIACAO_CIENTIFICA/blob/a12f74e66bbd9763416701bb15634036a66122ce/opa.jpg" alt="Descrição da Imagem" width="100" height="100">
 </div>
 
 ## 4. Contatos
