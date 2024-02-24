@@ -1,11 +1,8 @@
-<div style="display: flex; align-items: center;">
-  <h1>ROTINAS INICIAÇÃO CIENTÍFICA</h1>
-  <div style="margin-left: auto;">
+<div style="margin-left: auto;">
     <img src="https://github.com/claudiobatista005/ROTINAS_INICIACAO_CIENTIFICA/blob/a12f74e66bbd9763416701bb15634036a66122ce/opa.jpg" alt="Descrição da Primeira Imagem" width="100" height="100">
     <img src="https://github.com/claudiobatista005/ROTINAS_INICIACAO_CIENTIFICA/blob/69b9fd39a2769200cff85539b9eec62ed2f817cc/ufc_det.jpg" alt="Descrição da Segunda Imagem" width="100" height="100">
-  </div>
 </div>
-
+# ROTINAS INICIAÇÃO CIENTÍFICA
 #### Participação do Grupo de Pesquisa em Operação, Planejamento e Avaliação do Transporte Público - OPA-TP
 
 ## 1. Projetos de Pesquisa
