@@ -1,5 +1,4 @@
 # ROTINAS INICIAÇÃO CIENTÍFICA
-
 #### Participação do Grupo de Pesquisa em Operação, Planejamento e Avaliação do Transporte Público - OPA-TP
 
 ## 1. Projetos de Pesquisa
