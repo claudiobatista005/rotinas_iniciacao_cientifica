@@ -19,12 +19,6 @@ O projeto visa integrar as informações da bilhetagem com as do GPS, desenvolve
 - Utilização de softwares de simulação de tráfego para macrossimulação na disciplina de Análise e Planejamento de Sistemas de Transportes - APST.
 - Proposição para modelagem de um banco de dados relacional com dados do Sistema de Transporte Público de Fortaleza.
 
-## 3. Imagem no Canto Superior Direito
-
-<div align="right">
-  <img src="https://github.com/claudiobatista005/ROTINAS_INICIACAO_CIENTIFICA/blob/a12f74e66bbd9763416701bb15634036a66122ce/opa.jpg" alt="Descrição da Imagem" width="100" height="100">
-</div>
-
 ## 4. Contatos
 
 Para entrar em contato ou saber mais sobre o projeto, sinta-se à vontade para enviar um e-mail ou conectar-se via LinkedIn:
