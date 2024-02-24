@@ -1,5 +1,7 @@
 # ROTINAS INICIAÇÃO CIENTÍFICA
-
+<div align="right">
+  <img src="https://github.com/claudiobatista005/ROTINAS_INICIACAO_CIENTIFICA/blob/a12f74e66bbd9763416701bb15634036a66122ce/opa.jpg" alt="Descrição da Imagem" width="100" height="100">
+</div>
 #### Participação do Grupo de Pesquisa em Operação, Planejamento e Avaliação do Transporte Público - OPA-TP
 
 ## 1. Projetos de Pesquisa
