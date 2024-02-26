@@ -17,7 +17,7 @@
 No contexto do planejamento de transportes públicos, destaca-se a utilidade dos dados provenientes de cartões inteligentes (Smartcard) e de Sistemas de Posicionamento Global (GPS), caracterizados por expressivo agrupamento de informações, denominados "Big Data" (BD-TP).
 Essas bases podem ser utilizadas para captar o comportamento dos usuários, desde possíveis locais de validações e embarque até a circulação nos trechos, proporcionando parâmetros interessantes de eficiência do sistema de transporte público.
 Os cartões inteligentes fornecem dados sobre o uso do transporte público por indivíduo, incluindo frequência das viagens, horários de embarque/desembarque e dados sobre transferências entre diferentes modos de transporte. Já os sistemas GPS rastreiam a localização de veículos em tempo real.
-O projeto visa integrar as informações da bilhetagem com as do GPS, desenvolvendo algoritmos para estimar perfis de velocidades veiculares a partir dos dados de GPS.
+O projeto visa integrar as informações da bilhetagem com as do GPS, desenvolvendo algoritmos para estimar os possiveis locais de validação como também estiamr os perfis de velocidades veiculares a partir dos dados de GPS.
 
 **ATUALMENTE:**
 - Utilização de softwares de simulação de tráfego para macrossimulação na disciplina de Análise e Planejamento de Sistemas de Transportes - APST.
