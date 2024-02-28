@@ -21,7 +21,7 @@ Parte do projeto teve como foco a integração das informações da bilhetagem c
 
 **ATUALMENTE:**
 - Utilização de softwares de simulação de tráfego para macrossimulação na disciplina de Análise e Planejamento de Sistemas de Transportes - APST.
-- Proposição para modelagem de um banco de dados relacional com dados do Sistema de Transporte Público de Fortaleza.
+- Tratamento de dados e modelagem de um banco de dados relacional com dados do Sistema de Transporte Público de Fortaleza.
 
 ## 3. Contatos
 
