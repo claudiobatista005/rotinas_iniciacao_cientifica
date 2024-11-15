@@ -23,7 +23,14 @@ Parte do projeto teve como foco a integração das informações da bilhetagem c
 - Utilização de softwares de simulação de tráfego para macrossimulação na disciplina de Análise e Planejamento de Sistemas de Transportes - APST.
 - Tratamento de dados e modelagem de um banco de dados relacional com dados do Sistema de Transporte Público de Fortaleza.
 
-## 3. Contatos
+## 3. Demais tipos de produção técnica
+
+1. BATISTA, A. C. D.. ANÁLISE DE FATORES CORRELACIONADOS À EMISSÕES DE POLUENTES POR ÔNIBUS NUM CORREDOR COM VIA EXCLUSIVA DO SISTEMA DE TRANSPORTE PÚBLICO POR ÔNIBUS DE FORTALEZA. 2024. (Relatório de pesquisa).
+
+2. BATISTA, A. C. D.. GEORREFERENCIAMENTO DOS DADOS DE BILHETAGEM ELETRÔNICA DO SISTEMA DE TRANSPORTE PÚBLICO POR ÔNIBUS DE FORTALEZA. 2023. (Relatório de pesquisa).
+
+
+## 4. Contatos
 
 Para entrar em contato ou saber mais sobre o projeto, sinta-se à vontade para enviar um e-mail ou conectar-se via LinkedIn:
 
